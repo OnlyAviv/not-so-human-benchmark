@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "commander": "^12.0.0",
+    "playwright": "^1.42.1"
+  },
+  "name": "not-so-human-benchmark",
+  "version": "1.0.0",
+  "description": "How fast can a robot complete the human benchmark?",
+  "main": "cli.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RedYetiDev",
+  "license": "MIT",
+  "bin": {
+    "not-so-human-benchmark": "./cli.js"
+  }
+}
