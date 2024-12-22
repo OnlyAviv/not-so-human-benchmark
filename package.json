@@ -11,7 +11,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "RedYetiDev",
+  "author": "Aviv Keller",
   "license": "MIT",
   "bin": {
     "not-so-human-benchmark": "./cli.js"
